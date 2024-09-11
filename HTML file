@@ -13,7 +13,7 @@ h1{color: black;}
 </style>
 <body>
 <h1> Resume</h1>
-<object class="pdf" data="MADHUMATHI A.pdf" width="800" height="500">
-</object>
+<iframe class="pdf" src="https://github.com/MadhumathiA060304/Resume_Madhumathi-RA2211003050005-/blob/main/MADHUMATHI%20A.pdff" width="800" height="500">
+</iframe>
 </body>
 </html>
