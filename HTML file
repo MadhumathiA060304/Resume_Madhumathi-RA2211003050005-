@@ -13,7 +13,7 @@ h1{color: black;}
 </style>
 <body>
 <h1> Resume</h1>
-<object class="pdf" data="C:\Users\Madhu\Documents\resume\MADHUMATHI A.pdf" width="800" height="500">
+<object class="pdf" data="MADHUMATHI A.pdf" width="800" height="500">
 </object>
 </body>
 </html>
